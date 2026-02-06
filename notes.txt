@@ -1,0 +1,1 @@
+go get -u package_name => u flag updates the modules and their dependencies to the latest available versions

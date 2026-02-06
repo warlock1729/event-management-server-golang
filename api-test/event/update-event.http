@@ -1,0 +1,10 @@
+PUT http://localhost:8080/event/
+Content-Type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXIyQGdtYWlsLmNvbSIsImV4cCI6MTc3MDAyODM0NiwidXNlcl9pZCI6Mn0.31OysesYegTirZloKR_RP6hSMZP2DjqACq6JriC3rkY
+
+{
+    "Name": "ICC",
+    "Description": "World T20",
+    "Location": "Delhi",
+    "DateTime": "2025-01-01T15:30:00Z"
+}

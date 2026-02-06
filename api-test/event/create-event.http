@@ -1,0 +1,10 @@
+POST http://localhost:8080/event
+Content-Type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXIyQGdtYWlsLmNvbSIsImV4cCI6MTc3MDAyNzgxMSwidXNlcl9pZCI6Mn0.dN5jb7FT50G_3E5iWoingsZPmU87_1eIHBaS9mP3lwk
+
+{
+    "name":"Event for user 2",
+    "description":"Footbal",
+    "location": "Mumbai",
+    "datetime":"2025-01-11T15:30:00.000Z"
+}
